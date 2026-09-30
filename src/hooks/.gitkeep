@@ -1,0 +1,2 @@
+# Hooks
+Hooks personalizados de React y envoltorios de TanStack Query para desacoplar el estado y las llamadas asíncronas de los componentes de UI.

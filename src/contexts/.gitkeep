@@ -1,0 +1,2 @@
+# Contexts
+Proveedores de React Context para estados globales de UI o sesión de cliente que no correspondan a caché de datos de servidor.

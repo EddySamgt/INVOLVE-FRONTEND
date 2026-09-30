@@ -11,7 +11,7 @@ function AppContent() {
         </div>
         <h1 className="text-xl font-semibold">INVOLVE</h1>
         <p className="mt-2 text-sm text-gray-600">
-          Base técnica del frontend inicializada correctamente.
+          Arquitectura y configuración base del frontend inicializadas correctamente.
         </p>
       </div>
     </div>
